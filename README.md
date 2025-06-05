@@ -45,3 +45,7 @@ The **Airline Flight Management Database** is a comprehensive relational databas
 - **Overbooking Prevention:** Ensures no flight is booked beyond its seat capacity.
 - **Change Logging:** Tracks updates to critical fields in `flight` and `ticket` tables.
 - **Reporting:** Includes seasonal revenue, high-spending passengers, busiest airports, and more.
+
+---
+
+For full technical details, please refer to the highly technical documentation in **Documentation.docx**.
